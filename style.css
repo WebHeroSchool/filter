@@ -1,0 +1,38 @@
+h1 {
+  text-align: center;
+}
+
+h2{
+  text-decoration: underline;
+  text-decoration-color: orange;
+}
+
+.text {
+  font-style: italic;
+}
+
+.pic {
+ border: 5px solid purple;
+}
+
+article {
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.desc{
+  font-weight: bold;
+}
+
+.medium{
+  text-align: right;
+  border-width: 5px;
+  border-style: dotted;
+  border-color: #00FF7F;
+}
+
+.except{
+  text-decoration: underline;
+  text-decoration-color: #FFFF00;
+}
